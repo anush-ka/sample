@@ -1,6 +1,6 @@
 # Python program to swap two variables
-x = 5
-y = 10
+x = 205
+y = 100
 # To take inputs from the user
 #x = input('Enter value of x: ')
 #y = input('Enter value of y: ')
